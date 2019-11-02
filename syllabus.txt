@@ -1,3 +1,7 @@
 This is a syllabus
 aaaa
+<<<<<<< HEAD
 I am adding a learning objective
+=======
+We want to add some new stuff here
+>>>>>>> unit3_draft
